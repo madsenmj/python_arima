@@ -1,2 +1,4 @@
-# python_arima
-An introduction to data science and time-series forecasting using python.
+# Introduction to Data Science and Time-series Forecasting Using Python
+
+See the [Jupyter Notebook](IntroductionToTimeSeries.ipynb).
+
